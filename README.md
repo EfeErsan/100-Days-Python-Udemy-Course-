@@ -16,3 +16,5 @@ I will be taking a 100-day Python course on Udemy, taught by Atıl Samancıoğlu
 This course will provide a broad range of knowledge about the Python programming language and guide me through the software development process.
 
 [Course link](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/learn/lecture/37263352?start=240#overview)
+
+---
